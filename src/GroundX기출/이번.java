@@ -4,8 +4,8 @@ public class 이번 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int num = 120202023;
-		int[] mark = new int[] {1,2,0,2,3,4,5,13,12,11,10,9,8,7,6,5};
+		int num = 15;
+		int[] mark = new int[] {1,7,6,5,0,4,3,2};
 		solution(num,mark);
 	}
 	
